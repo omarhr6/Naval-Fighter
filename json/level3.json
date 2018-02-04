@@ -1,0 +1,161 @@
+{
+    "duration": 280,
+    "generator": 4000,
+    "contador": 20,
+    "contadorBoss": 20,
+    "enemies": [{
+            "avion": "avionEnemigo2",
+            "time": 0,
+            "x": 100,
+            "y": -100,
+            "health": 2
+        },
+        {
+            "avion": "avionEnemigo2",
+            "time": 0,
+            "x": 200,
+            "y": -100,
+            "health": 2
+        },
+        {
+            "avion": "avionEnemigo2",
+            "time": 0,
+            "x": 150,
+            "y": -40,
+            "health": 2
+        },
+        {
+            "avion": "avionEnemigo2",
+            "time": 1,
+            "x": 350,
+            "y": -100,
+            "health": 2
+        },
+        {
+            "avion": "avionEnemigo2",
+            "time": 1,
+            "x": 450,
+            "y": -100,
+            "health": 2
+        },
+        {
+            "avion": "avionEnemigo2",
+            "time": 1,
+            "x": 400,
+            "y": -40,
+            "health": 2
+        },
+        {
+            "avion": "avionEnemigo2",
+            "time": 2,
+            "x": 650,
+            "y": -40,
+            "health": 2
+        },
+        {
+            "avion": "avionEnemigo2",
+            "time": 2,
+            "x": 600,
+            "y": -100,
+            "health": 2
+        },
+        {
+            "avion": "avionEnemigo2",
+            "time": 2,
+            "x": 700,
+            "y": -100,
+            "health": 2
+        },
+        {
+            "avion": "avionEnemigo2",
+            "time": 3,
+            "x": 850,
+            "y": -40,
+            "rotation": 0.70,
+            "health": 1
+
+        },
+        {
+            "avion": "avionEnemigo2",
+            "time": 3,
+            "x": 800,
+            "y": -100,
+            "rotation": 0.70,
+            "health": 1
+        },
+        {
+            "avion": "avionEnemigo2",
+            "time": 3,
+            "x": 900,
+            "y": -100,
+            "rotation": 0.70,
+            "health": 1
+        },
+        {
+            "avion": "avionEnemigo2",
+            "time": 4,
+            "x": -50,
+            "y": -40,
+            "rotation": -0.70,
+            "health": 1
+
+        },
+        {
+            "avion": "avionEnemigo2",
+            "time": 4,
+            "x": 0,
+            "y": -100,
+            "rotation": -0.70,
+            "health": 1
+        },
+        {
+            "avion": "avionEnemigo2",
+            "time": 4,
+            "x": -100,
+            "y": -100,
+            "rotation": -0.70,
+            "health": 1
+        },
+        {
+            "avion": "avionEnemigo4",
+            "time": 6,
+            "x": 100,
+            "y": -150,
+            "rotation": 0,
+            "health": 10
+
+        },
+        {
+            "avion": "avionEnemigo4",
+            "time": 6,
+            "x": 420,
+            "y": -150,
+            "rotation": 0,
+            "health": 10
+        },
+        {
+            "avion": "avionEnemigo4",
+            "time": 6,
+            "x": 700,
+            "y": -150,
+            "rotation": 0,
+            "health": 10
+        },
+        {
+            "avion": "avionEnemigo4",
+            "time": 7,
+            "x": 250,
+            "y": -150,
+            "rotation": 0,
+            "health": 10
+        },
+        {
+            "avion": "avionEnemigo4",
+            "time": 7,
+            "x": 600,
+            "y": -150,
+            "rotation": 0,
+            "health": 10
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+div.contenido {
+  width: 53vw;
+  /* margin: 15% auto; */
+  border-radius: 20px;
+  text-align: center;
+  background-color: rgba(195, 228, 182, 0.8);
+  background-size: 50%;
+}
+
+div.contenido form {
+  padding: 1% 4%;
+  margin: 0 auto;
+}
+
+div.contenido form .titulo-formulario {
+  margin-bottom: 2%;
+  font-family: Maxwell-Bold, sans-serif;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 2px #999;
+}
+
+div.contenido form label {
+  width: 100%;
+  margin: 1% 0;
+}
+
+div.contenido form label span.texto-formulario {
+  display: inline-block;
+  width: 20%;
+  font-size: 1.1em;
+  text-shadow: 1px 1px 2px #999;
+}
+
+div.contenido form label input {
+  padding: 0 4px;
+  font-size: 1.1em;
+  border-radius: 10px;
+  background-color: rgba(238, 231, 204, 0.9);
+}
+
+div.contenido #mensajeError {
+  display: none;
+  margin: 2% 0 1%;
+  padding: 1%;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-align: left;
+  border: solid rgb(226, 56, 56) 2px;
+  border-radius: 10px;
+  background-color: rgba(240, 175, 175, 0.6);
+}
+
+.botones {
+  margin: 1.5em 1em;
+  padding: 1% 2%;
+  font-size: 1.2em;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+  text-align: center;
+  box-shadow: 2px 2px 5px #999999;
+}
+
+@media (max-width: 768px) {
+  div.contenido {
+    width: 96vw;
+    margin: 1% auto;
+    border-radius: 25px;
+    text-align: center;
+    background-image: none;
+  }
+  
+  div.contenido form {
+    width: 100%;
+    padding: 1% 4%;
+    text-align: center;
+  }
+  
+  div.contenido form label span.texto-formulario {
+    width: 45%;
+    font-size: 1.1em;
+    text-shadow: 1px 1px 2px #999;
+  }
+  
+  div.contenido form #MensajeError {
+    width: 100%;
+    margin: 4% 2%;
+    padding: 1% 5%;
+  }
+}
